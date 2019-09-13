@@ -1,0 +1,4 @@
+.sidebar:after,
+ .off-canvas-sidebar[data-color="red"]:after {
+    background: #183558 !important;
+ }
