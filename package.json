@@ -1,7 +1,6 @@
 {
   "name": "mannila",
   "version": "0.1.0",
-  "homepage":"https://Sam232.github.io/uiDesign",
   "private": true,
   "dependencies": {
     "chart.js": "^2.8.0",
@@ -26,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
